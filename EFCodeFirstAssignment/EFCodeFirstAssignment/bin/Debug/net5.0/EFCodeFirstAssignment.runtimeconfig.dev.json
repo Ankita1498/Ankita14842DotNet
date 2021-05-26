@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ankita\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ankita\\.nuget\\packages"
+    ]
+  }
+}
